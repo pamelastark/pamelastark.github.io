@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Pam Stark. I am a first-year graduate student at _____ studying experimental nuclear/particle physics, with a focus on beyond-Standard Model searches for dark matter, neutrinoless double beta decay, and ____. I am fascinated by the analysis landscape of rare event experiments and use novel analysis techniques to improve the efficiency of our searches. 
+Hi! My name is Pam Stark. I am a first-year graduate student at UNIVERSITY studying experimental nuclear/particle physics, with a focus on beyond-Standard Model searches for dark matter, neutrinoless double beta decay, and other exotic physics. I am fascinated by the analysis landscape of rare event experiments and use novel analysis techniques to improve the efficiency of our searches. 
 
 On this website, you'll find descriptions of my undergraduate experience at MIT, research highlights, and more! I look forward to sharing my passion for physics with you. 
 

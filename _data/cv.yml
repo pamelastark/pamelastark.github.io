@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pamela Stark
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th February 2001
     - name: Languages
-      value: English, German
+      value: English, Russian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science
+      institution: Massachusetts Institute of Technology
+      year: Present 
       description:
         - Description 1.
         - Description 2.
@@ -21,45 +21,24 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science
+      institution: Massachusetts Institute of Technology
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Physics
+        - GPA: 4.8 / 5.0 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Undergraduate Researcher
+      institution: Laboratory of Nuclear Science, MIT 
+      year: 2020 - Present
+     
+    - title: Data Science Research Intern
+      institutioin: Skolkovo Institute of Science and Technology, Moscow, Russia 
+      year: 2021
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -94,4 +73,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Running, etc.

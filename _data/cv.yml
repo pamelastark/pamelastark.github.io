@@ -11,22 +11,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science
-      institution: Massachusetts Institute of Technology
-      year: Present 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Bachelor of Science
+    - title: B.S in Physics
       institution: Massachusetts Institute of Technology
       year: 2023
-      description:
-        - Physics
-        - GPA: 4.8 / 5.0 
 
 - title: Experience
   type: time_table
@@ -36,27 +23,18 @@
       year: 2020 - Present
      
     - title: Data Science Research Intern
-      institutioin: Skolkovo Institute of Science and Technology, Moscow, Russia 
+      institution: Skolkovo Institute of Science and Technology, Moscow, Russia 
       year: 2021
+      description: 
+	- Developed closed-form estimation equations for aggregate electric vehicle (EV) loads and simulated an electricity marketplace using Europe’s largest EV trial. 
 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+	- Valedictorian 
 
 - title: Academic Interests
   type: nested_list

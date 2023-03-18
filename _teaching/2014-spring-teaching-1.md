@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Differential Equations (18.03)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Massachusetts Institute of Technology, Experimental Studies Program"
 date: 2014-01-01
-location: "City, Country"
+location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======

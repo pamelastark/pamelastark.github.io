@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,3 +10,5 @@ redirect_from:
 
 About Me
 ======
+
+Welcome! My name is Pam Stark and I am an incoming Ph.D. student at Stanford University studying experimental physics in the School of Humanities and Sciences. 

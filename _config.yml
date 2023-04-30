@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+minimal_mistakes_skin    : "dark"
 title                    : "Pam Stark"
 title_separator          : "-"
 name                     : &name "Pamela Stark"
@@ -87,7 +88,7 @@ author:
   employer         :
 #  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : pstark@mit.edu
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

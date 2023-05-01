@@ -1,4 +1,7 @@
 ---
+header: 
+   og_image: /images/header.jpg
+   caption: Photo from June 2022 CUORE Collaboration Meeting
 permalink: /
 title: ""
 excerpt: "Welcome to my Physics World"

@@ -1,6 +1,6 @@
 ---
 header: 
-   og_image: /images/header.jpg
+   overlay_image: /images/header.jpg
    caption: Photo from June 2022 CUORE Collaboration Meeting
 permalink: /
 title: ""
